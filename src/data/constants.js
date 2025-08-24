@@ -12,7 +12,7 @@ export const Bio = {
   github: "https://github.com/vyshnavigaripelly",
   //resume:
    // "https://drive.google.com/file/d/1JEphzhHmS_AQzhZsS9Te-dTqK4fAjB_9/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/vyshnavig0713/",
+  //linkedin: "https://www.linkedin.com/in/vyshnavig0713/",
   leetcode: "https://leetcode.com/u/vaish304/",
 
 };

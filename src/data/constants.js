@@ -1,14 +1,12 @@
 export const Bio = {
   name: "Vyshnavi Garipelly",
   roles: [
-    "Full Stack Developer",
-    "Software Engineer",
-    "Computer Engineer",
-    "Programmer",
+    "Lead Developer",
+    
 
   ],
   description:
-     "I'm a Full Stack Engineer focused on building scalable, reliable distributed systems. With experience across web, mobile, monolithic, and microservices architectures, I'm skilled in systems design and infrastructure. Outside of work, I'm a competitive programmer and music enthusiast.",
+     "I'm a lead Developer focused on building scalable, reliable distributed systems. With experience across web, mobile, monolithic, and microservices architectures, I'm skilled in systems design and infrastructure. Outside of work, I'm a competitive programmer and music enthusiast.",
   github: "https://github.com/vyshnavigaripelly",
   //resume:
    // "https://drive.google.com/file/d/1JEphzhHmS_AQzhZsS9Te-dTqK4fAjB_9/view?usp=sharing",

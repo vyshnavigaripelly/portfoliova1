@@ -1,13 +1,13 @@
 export const Bio = {
   name: "Vyshnavi G",
   roles: [
-    "Developer",
-    "Data Scientist"
+    "Data annotation specialist",
+    "Data Analyst"
     
 
   ],
   description:
-     "I'm a lead Developer/Data Scientist focused on building scalable, reliable distributed systems. With experience across web, mobile, monolithic, and microservices architectures, I'm skilled in systems design and infrastructure. Outside of work, I'm a competitive programmer and music enthusiast.",
+     "I'm a Data annotation specialist/Data Scientist focused on building scalable, reliable distributed systems. With experience across web, mobile, monolithic, and microservices architectures, I'm skilled in systems design and infrastructure. Outside of work, I'm a competitive programmer and music enthusiast.",
   github: "https://github.com/vyshnavigaripelly",
   //resume:
    // "https://drive.google.com/file/d/1JEphzhHmS_AQzhZsS9Te-dTqK4fAjB_9/view?usp=sharing",
@@ -222,11 +222,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img:"https://mms.businesswire.com/media/20231115149949/en/1945950/22/Scale_logo.jpg",
+    //img:"https://mms.businesswire.com/media/20231115149949/en/1945950/22/Scale_logo.jpg",
     //img:"https://assets.themuse.com/uploaded/companies/11832/small_logo.png",
-    role: "Lead Developer",
-    company: "Scale AI",
-    date: "Apr 2024 - Present",
+    role: "Data Scientist",
+    company: "Turing",
+    date: "Oct 2025 - Present",
     desc: "Built scalable platforms with React.js, GraphQL, & Node.js, cutting API calls by 20%. Automated CI/CD with Docker,Jenkins deployed on AWS EC2. Enhanced ML models, boosting accuracy by 8% & optimizing pipelines. Debugged & optimized systems with Python, Java,. Increased user retention by 12% with improved UX.",
     skills: [
       "ReactJS",
@@ -244,12 +244,12 @@ export const experiences = [
     //doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
-    //id: 1,
+    id: 1,
     //img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    //role: "Open Source Contributor ",
-   // company: "GirlScript Summer of Code",
-   // date: "Nov 2024 - Present",
-    //desc: "Contributed to different open-source projects and learn from industry experts",
+    role: "Data Annoation Specialist ",
+    company: "Scale AI",
+    date: "April 2024 - Oct 2025",
+    desc: "Contributed to different open-source projects and learn from industry experts",
   },
   {
     id: 2,
@@ -257,7 +257,7 @@ export const experiences = [
     //img:"https://www.pngmart.com/files/23/Goldman-Sachs-Logo-PNG-Image.png",
     //img:"https://www.1min30.com/wp-content/uploads/2018/07/Symbole-Goldman-Sachs.jpg",
     //img: "https://media.glassdoor.com/sqll/3306920/deeptek-medical-imaging-squarelogo-1638259479971.png",
-    role: "Data science/ Sr Devops",
+    role: "Developer(AI/ML Project)",
     company: "Deeptek.ai",
     date: "Sept 2023 - Mar 2024",
     desc: "Reduced load times by 40% for Hybrid Portals. Built an Analytics Portal with React.js,Axios. Cut CPU usage by 20% using semaphores & locks. Enhanced low-latency Java/J2EE systems.Improved scalability with TDD & Agile practices. Led code reviews for Python, React, & Kafka.",
@@ -284,7 +284,7 @@ export const experiences = [
     //img:"https://static.cdnlogo.com/logos/a/90/adobe.png",
     //img:"https://logodownload.org/wp-content/uploads/2017/04/adobe-logo-1.png",
     img: "https://i.pinimg.com/originals/df/51/55/df5155d8a80efed181ad0b48ea7a89ee.jpg",
-    role: "Software Developer ",
+    role: "ML Eginner/Analyst ",
     company: "Accenture",
     date: "Oct 2021 - Aug 2023",
     desc: "Designed scalable architecture for Imagine Reservation using Agile SDLC.Built modular apps with Spring MVC for high performance.Developed rich UIs with JavaScript, HTML, & XML.Applied SDET principles & delivered zero-bug code.Converted Figma designs to XML for UI implementation.",

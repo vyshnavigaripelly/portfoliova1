@@ -2,7 +2,7 @@ export const Bio = {
   name: "Vyshnavi G",
   roles: [
     //"Data annotation specialist",
-    //"Data Analyst",
+    //"Data Analyst"
     "Senior Developer",
     "Lead Developer",
     "Full Stack Developer",
@@ -231,9 +231,9 @@ export const experiences = [
     //img:"https://mms.businesswire.com/media/20231115149949/en/1945950/22/Scale_logo.jpg",
     //img:"https://assets.themuse.com/uploaded/companies/11832/small_logo.png",
     role: "Lead Developer",
-    //visa-role: "Data Scientist",
+    //visa-role: "Data Scientist"
     company: "Scale AI[Turing]",
-    //visa-date: "Oct 2025 - Present,
+    //visa-date: "Oct 2025 - Present
     date: "March 2025 - Aug 2025",
     desc: "Built scalable platforms with React.js, GraphQL, & Node.js, cutting API calls by 20%. Automated CI/CD with Docker,Jenkins deployed on AWS EC2. Enhanced ML models, boosting accuracy by 8% & optimizing pipelines. Debugged & optimized systems with Python, Java,. Increased user retention by 12% with improved UX.",
     skills: [
@@ -252,7 +252,7 @@ export const experiences = [
     //doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
-    id: 1,
+    //id: 1,
     //img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
     //role: "Data Annoation Specialist ",
     //company: "Scale AI",
@@ -260,7 +260,7 @@ export const experiences = [
     //desc: "Contributed to different open-source projects and learn from industry experts",
   },
   {
-    id: 2,
+    id: 1,
      //img:"https://www.pngall.com/wp-content/uploads/15/Goldman-Sachs-Logo-Transparent.png",
     //img:"https://www.pngmart.com/files/23/Goldman-Sachs-Logo-PNG-Image.png",
     //img:"https://www.1min30.com/wp-content/uploads/2018/07/Symbole-Goldman-Sachs.jpg",
@@ -268,7 +268,7 @@ export const experiences = [
     role: "Developer(AI/ML Project)",
     company: "Deeptek.ai",
     date: "Nov 2023 - Feb 2024
-    //vusa -date: "Sept 2023 - Mar 2024",
+    //vusa -date: "Sept 2023 - Mar 2024"
     desc: "Reduced load times by 40% for Hybrid Portals. Built an Analytics Portal with React.js,Axios. Cut CPU usage by 20% using semaphores & locks. Enhanced low-latency Java/J2EE systems.Improved scalability with TDD & Agile practices. Led code reviews for Python, React, & Kafka.",
     skills: [
       "React.js",
@@ -289,11 +289,12 @@ export const experiences = [
     
   },
   {
-    id: 3,
+    id: 2,
     //img:"https://static.cdnlogo.com/logos/a/90/adobe.png",
     //img:"https://logodownload.org/wp-content/uploads/2017/04/adobe-logo-1.png",
     img: "https://i.pinimg.com/originals/df/51/55/df5155d8a80efed181ad0b48ea7a89ee.jpg",
-    role: "ML Eginner/Analyst ",
+    role: "Developer 2 ",
+    //role: "ML Eginner/Analyst "
     company: "Accenture",
     date: "Oct 2021 - Nov 2023",
     // visa- date: "Oct 2021 - Aug 2023",

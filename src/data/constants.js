@@ -267,7 +267,7 @@ export const experiences = [
     //img: "https://media.glassdoor.com/sqll/3306920/deeptek-medical-imaging-squarelogo-1638259479971.png",
     role: "Developer(AI/ML Project)",
     company: "Deeptek.ai",
-    date: "Nov 2023 - Feb 2024",
+    date: "Nov 2023 - Feb 2025",
     //vusa -date: "Sept 2023 - Mar 2024"
     desc: "Reduced load times by 40% for Hybrid Portals. Built an Analytics Portal with React.js,Axios. Cut CPU usage by 20% using semaphores & locks. Enhanced low-latency Java/J2EE systems.Improved scalability with TDD & Agile practices. Led code reviews for Python, React, & Kafka.",
     skills: [
